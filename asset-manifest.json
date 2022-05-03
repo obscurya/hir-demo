@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/hir-demo/static/css/main.3990fe13.chunk.css",
+    "main.js": "/hir-demo/static/js/main.ac63616e.chunk.js",
+    "main.js.map": "/hir-demo/static/js/main.ac63616e.chunk.js.map",
+    "runtime-main.js": "/hir-demo/static/js/runtime-main.830e80d2.js",
+    "runtime-main.js.map": "/hir-demo/static/js/runtime-main.830e80d2.js.map",
+    "static/css/2.36f33b28.chunk.css": "/hir-demo/static/css/2.36f33b28.chunk.css",
+    "static/js/2.0440774a.chunk.js": "/hir-demo/static/js/2.0440774a.chunk.js",
+    "static/js/2.0440774a.chunk.js.map": "/hir-demo/static/js/2.0440774a.chunk.js.map",
+    "index.html": "/hir-demo/index.html",
+    "static/css/2.36f33b28.chunk.css.map": "/hir-demo/static/css/2.36f33b28.chunk.css.map",
+    "static/css/main.3990fe13.chunk.css.map": "/hir-demo/static/css/main.3990fe13.chunk.css.map",
+    "static/js/2.0440774a.chunk.js.LICENSE.txt": "/hir-demo/static/js/2.0440774a.chunk.js.LICENSE.txt",
+    "static/js/main.ac63616e.chunk.js.LICENSE.txt": "/hir-demo/static/js/main.ac63616e.chunk.js.LICENSE.txt",
+    "static/media/400.css": "/hir-demo/static/media/roboto-vietnamese-400-normal.c0bec65d.woff2",
+    "static/media/500.css": "/hir-demo/static/media/roboto-vietnamese-500-normal.b8e494da.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.830e80d2.js",
+    "static/css/2.36f33b28.chunk.css",
+    "static/js/2.0440774a.chunk.js",
+    "static/css/main.3990fe13.chunk.css",
+    "static/js/main.ac63616e.chunk.js"
+  ]
+}
